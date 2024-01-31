@@ -15,8 +15,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [My Solution](https://your-solution-url.com)
-- [Live Site](https://your-live-site-url.com)
+- [My Solution](https://www.frontendmentor.io/solutions/blog-preview-card-with-reactjs-and-tailwinddaisyui-5NuKO42QZ9)
+- [Live Site](https://blog-preview-rho.vercel.app/)
 
 ## My process
 
